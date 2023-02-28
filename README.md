@@ -1,26 +1,20 @@
-## Hey 👋, I'm Waqas Khurshid!  
+## Hey 👋, I'm Zain Noor!  
 
-<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="offical-waqas-khurshid" /> </p></div>
+<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="zain22211" /> </p></div>
 
 <div align="center">
-<a href="https://github.com/offical-waqas-khurshid" target="_blank">
+<a href="https://github.com/zain22211" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-  <a href="https://web.facebook.com/profile.php?id=100090833192387" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/WAQASKH77939058" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/waqas-khurshid-waqas278/" target="_blank">
+<a href="https://www.linkedin.com/in/zain-noor-a21654241/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<!-- </a>
 <a href="https://www.instagram.com/muhammadwaqas7246/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/21177654/waqas-khurshid" target="_blank">
+</a> -->
+<!-- <a href="https://stackoverflow.com/users/21177654/waqas-khurshid" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+</a> -->
   
 </div>
   
@@ -75,7 +69,7 @@
 <p align="center">
   <img src="https://github.com/zain22211
 /zain22211
-/raw/output/github-contribution-grid-snake.svg" alt="snake">
+/raw/output/" alt="snake">
 
 
 </p>
