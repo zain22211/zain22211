@@ -22,7 +22,7 @@
 
 
 ## 💫 About Me :
-***A passionate, enthusiastic programmer. Skilled in Flutter cross-platform apps, Android native apps, Web, and Firebase as backend. A self-taught programmer and a quick learner who believes in constant improvement.***    
+***A passionate, enthusiastic programmer. Skilled in Front End Development,  Web, and UI. A self-taught programmer and a quick learner who believes in constant improvement.***    
 <br/> 
 ## Profile Summary
 
